@@ -1,12 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/1cc622e4-5152-4076-b86d-87fe7953a012
+Here is the live link:  https://squirrelk6755-ctrl.github.io/civicsentimal/
 
 ## Run Locally
 
