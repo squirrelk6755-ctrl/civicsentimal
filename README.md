@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ CivicSentimal
+# 🏛️ CivicSentinel
 
 ### AI-Powered Civic Conflict Mediation Platform
 
@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-**CivicSentimal** is an intelligent civic mediation platform that harnesses the power of **Google Gemini AI** to resolve complex urban infrastructure conflicts. From flooded streets and drainage disputes to wildlife corridor encroachments and telecom tower siting conflicts — CivicSentimal maps all affected stakeholders, generates binding mediation treaties, and produces actionable consensus roadmaps in real time.
+**CivicSentinel** is an intelligent civic mediation platform that harnesses the power of **Google Gemini AI** to resolve complex urban infrastructure conflicts. From flooded streets and drainage disputes to wildlife corridor encroachments and telecom tower siting conflicts — CivicSentimal maps all affected stakeholders, generates binding mediation treaties, and produces actionable consensus roadmaps in real time.
 
 The platform supports **bilingual operation** (English & Hindi / Devanagari script) and is designed to serve municipalities, civic bodies, urban planners, and community representatives.
 
